@@ -14,6 +14,8 @@ This is a simple Weather App that allows users to check the current weather for 
 - OpenWeatherMap API
 
 ## Usage
-To use the Weather App, visit the following website:
+To use the Weather App, visit the following website: https://mohnish-kumar.github.io/weather-app/
 
-[Weather App](https://mohnish-kumar.github.io/weather-app/)
+1. Enter the name of the city in the search box.
+2. Click the search button or press the Enter key.
+3. The weather information for the specified city will be displayed.
