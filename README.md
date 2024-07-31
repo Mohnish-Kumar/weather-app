@@ -15,4 +15,5 @@ This is a simple Weather App that allows users to check the current weather for 
 
 ## Usage
 To use the Weather App, visit the following website:
+
 [Weather App](https://mohnish-kumar.github.io/weather-app/)
